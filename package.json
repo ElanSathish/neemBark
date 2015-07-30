@@ -41,6 +41,8 @@
   "dependencies": {
     "bower": "^1.4.1",
     "body-parser":"latest",
+    "mongoose": "https://registry.npmjs.org/mongoose/-/mongoose-4.0.5.tgz",
+
     "express": "^4.13.1",
     "http-server": "^0.6.1",
     "jasmine-core": "^2.3.4",
